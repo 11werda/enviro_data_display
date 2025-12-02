@@ -1,16 +1,5 @@
-# pathwdata
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+EnviroBot is a mobile rover system paired with a Flutter app that maps environmental data including temperature, humidity, and air quality (AQI). The app displays a grid-based, color-coded map to visualize sensor readings in real time.
+Tech Stack:
+Frontend: Flutter
+Backend: Supabase (for storing movement commands and sensor readings)
+UI/UX: Designed in Figma
